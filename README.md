@@ -25,3 +25,9 @@ Sino me equivoco en GNU/Linux tienes que cambiar ```python``` por ```python3``` 
 ### funciona en python 3.8.9
 
 ![image](https://user-images.githubusercontent.com/58951699/113525922-1c711600-958e-11eb-99fc-4d91e0618049.png)
+
+
+#### Notas
+
+Al parecer PyQt5 da error al no cargar un icono (favicon.ico) (?
+Otra cosa que vi es que si intento correr el archivo ```pyqtbrowser.py``` sin antes abrirlo en Visual Studio Code, me da error y pone ```Python a dejado de funcionar``` deberia investigar eso
