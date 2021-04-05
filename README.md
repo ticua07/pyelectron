@@ -27,7 +27,7 @@ Sino me equivoco en GNU/Linux tienes que cambiar ```python``` por ```python3``` 
 ![image](https://user-images.githubusercontent.com/58951699/113525922-1c711600-958e-11eb-99fc-4d91e0618049.png)
 
 
-#### Notas
+### Notas
 
 Al parecer PyQt5 da error al no cargar un icono (favicon.ico) (?
 
