@@ -20,6 +20,6 @@ y por ultimo pyqtbrowser.py
 python pyqtbrowser.py
 ```
 
-(Creo que en linux tienes que hacer python3 para que funcione nose linux)
+Sino me equivoco en GNU/Linux tienes que cambiar ```python``` por ```python3``` y ```pip``` por ```pip3```
 
 ### funciona en python 3.8.9
